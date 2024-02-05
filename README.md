@@ -1,8 +1,8 @@
 ##
 <div>
 <a href="https://github.com/joaovyctorfc">
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=joaovyctorfc&show_icons=true&theme=tokyonight"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovyctorfc&layout=compact&theme=tokyonight"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=joaovyctorfc&show_icons=true&theme=tokyonight"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovyctorfc&layout=compact&theme=tokyonight"/>
 </div>
 
 ##
