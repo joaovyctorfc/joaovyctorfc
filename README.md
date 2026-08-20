@@ -29,8 +29,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovyctorfc&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovyctorfc&layout=compact&theme=tokyonight"/>
+  <img src="https://img.shields.io/github/stars/joaovyctorfc?style=for-the-badge&color=00A8E8" alt="Stars"/>
+  <img src="https://img.shields.io/github/followers/joaovyctorfc?style=for-the-badge&color=00A8E8" alt="Followers"/>
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=00A8E8&label=Repos&query=public_repos&url=https://api.github.com/users/joaovyctorfc" alt="Repos"/>
 </div>
 
 <br>
